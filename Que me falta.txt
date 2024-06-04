@@ -1,0 +1,2 @@
+- Cambiar mensaje fijo a solo para mi en en /clear cuando no tge deja en el canal de valoraciones
+- Sistema tickets.
